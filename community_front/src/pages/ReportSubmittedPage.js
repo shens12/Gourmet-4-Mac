@@ -9,7 +9,7 @@ export default function ReportSubmittedPage() {
 		<div className="group1">
 			<p className="title1">We have received your report. </p>
 			<p className="title2">You will receive feedback as soon as the problem is resolved.</p>
-			<img className="img4" src="/afterReport.jpg" /> <br />
+			<img className="img4" src="../afterReport.jpg" /> <br />
 			<button className="button" onClick={() => navigate(`/`)}>Back to main page</button>
 		</div>
     );

@@ -36,17 +36,17 @@ export default function ProductPage() {
                             <p className="clickable1">Description: </p>
 							<p className="desc3">{product.description}</p>
 						<div className="subgroup6">
-						<Link to={"/request/" + product._id}><img className="subgroup6" src="/Delivery2.png" /></Link>
+						<Link to={"/request/" + product._id}><img className="subgroup6" src="../Delivery2.png" /></Link>
 						<div className="subgroup7">
-							<Link to={"/request/" + product._id}><p className="clickable2"> On campus <img width="20" src="/triangle.png" /></p></Link>
+							<Link to={"/request/" + product._id}><p className="clickable2"> On campus <img width="20" src="../triangle.png" /></p></Link>
 				
 							<p className="desc3"> Start a service request on Bring-It-To-Me system</p>
 						</div>
 					</div>
 					<div className="subgroup6">
-						<Link to={"/rate/" + product._id}><img className="subgroup6" src="/rate.png" /></Link>
+						<Link to={"/rate/" + product._id}><img className="subgroup6" src="../rate.png" /></Link>
 						<div className="subgroup8">
-							<Link to={"/rate/" + product._id}><p className="clickable2"> Rate your experience <img width="20" src="/triangle.png" /></p></Link>
+							<Link to={"/rate/" + product._id}><p className="clickable2"> Rate your experience <img width="20" src="../triangle.png" /></p></Link>
 							<p className="desc3">Tell us your own experience in this restaurant.</p>
 						</div>
 					</div>
