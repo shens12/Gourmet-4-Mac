@@ -1,0 +1,165 @@
+{
+  "restaurants": [
+    {
+      "_id": "1",
+      "category": "Chinese",
+      "name": "Mr. Gao",
+      "image": "/images/Mr.png",
+      "price": 30,
+      "rating": 4.5,
+      "description": "Traditional Chinese appetizers, noodle dishes & stir-fries offered in an informal, modern setting. ",
+      "address": "1561 Main St W, Hamilton, ON L8S 1E6"
+    },
+    {
+      "_id": "2",
+      "category": "Chinese",
+      "name": "South China Chinese Food",
+      "image": "/images/south.jpg",
+      "price": 12,
+      "rating": 4,
+      "description": "No-nonsense outpost for massive portions of familiar Chinese dishes in no-frills surroundings.",
+      "address": "1223 Main St W, Hamilton, ON L8S 1C3"
+    },
+    {
+      "_id": "3",
+      "category": "Chinese",
+      "name": "Szechuan Noodle Bowl",
+      "image": "/images/Szechuan.png",
+      "price": 15,
+      "rating": 5,
+      "description": "Szechuan Noodle Bowl provides an amazing culinary experience in Hamilton. Experienced chefs have worked hard to bring you food such as soup to excite your palate.",
+      "address": "17 King St E, Hamilton, ON L8N 1A9"
+    },
+  
+ 
+    {
+      "_id": "4",
+      "category": "American",
+      "name": "Popeyes Louisiana Kitchen",
+      "image": "/images/ppy.png",
+      "price": 10,
+      "rating": 5,
+      "description": "Louisiana-accented fast-food chain known for its spicy fried chicken, biscuits & sides.",
+      "address": "1711 Main St W, Hamilton, ON L8S 1G5"
+    },
+    {
+      "_id": "5",
+      "category": "American",
+      "name": "McDonald's",
+      "image": "/images/mcD.jpg",
+      "price": 10,
+      "rating": 5,
+      "description": "Classic, long-running fast-food chain known for its burgers, fries & shakes.",
+      "address": "50 Dundurn St S, Hamilton, ON L8P 4W3"
+    },
+    {
+      "_id": "6",
+      "category": "American",
+      "name": "KFC",
+      "image": "/images/KFC.png",
+      "price": 10,
+      "rating": 4,
+      "description": "Fast-food chain known for its buckets of fried chicken, plus wings & sides.",
+      "address": "119 Osler Dr, Hamilton, ON L9H 6X4"
+    },
+
+    {
+      "_id": "7",
+      "category": "Japanese",
+      "name": "Yukiguni Izakaya",
+      "image": "/images/Yukiguni_Izakaya.jpg",
+      "price": 30,
+      "rating": 5,
+      "description": "Authentic Japanese restaurant.",
+      "address": "Unit 6, 1686 Main St W #8, Hamilton, ON L8S 0A2"
+    },
+    {
+      "_id": "8",
+      "category": "Japanese",
+      "name": "Teriyaki Experience",
+      "image": "/images/teriyaki.jpg",
+      "price": 18,
+      "rating": 4.5,
+      "description": "Counter-serve chain for made-to-order Japanese rice & noodle dishes, plus grilled veggies & meats.",
+      "address": "1280 Main St W, Hamilton, ON L8S 4K1"
+    },
+    {
+      "_id": "9",
+      "category": "Japanese",
+      "name": "Charlie's Chopsticks Westdale",
+      "image": "/images/charlie's.png",
+      "price": 25,
+      "rating": 4.5,
+      "description": "Their creation team is made up of individuals from several Asian cultures, who all love food and experimenting.",
+      "address": "1035 King St W, Hamilton, ON L8S 1L6"
+    }
+  ],
+  "users": [
+    {
+      "_id": "1",
+      "name": "Mr Smith",
+      "phone": "3658884030",
+      "postcode": "L8S121",
+      "password": "abxs",
+      "image": "/images/competence_deliver.jpg",
+      "address": "100 Main Street South Hamilton, ON L3P 5H8 Canada",
+      "email": "la@gmail.com"
+    }
+  ],
+  "input_products": [
+    {
+      "_id": "1",
+      "category": "chinese",
+      "name": "Mr.Gao",
+      "image": "/images/Mr.png",
+      "price": 19,
+      "rating": 5,
+      "description": "taste good",
+      "address": "1561 Main St W, Hamilton, ON L8S 1E6"
+    }
+  ], 
+  "requests":[
+  {
+    "_id": "00001",
+    "name": "Hacker1",
+    "email": "hacker@gmail.com",
+    "request_time": " Oct. 10, 2020  10:10:02 ",
+    "status":true,
+    "validate_time": "Oct. 14, 2020  10:10:02"
+  },
+  {
+    "_id": "00002",
+    "name": "TechTerms",
+    "email": "techterms@gmail.com",
+    "request_time": " Oct. 10, 2020  10:10:02 ",
+    "status":true,
+    "validate_time": "Oct. 14, 2020  10:10:02"
+  },
+  {
+    "_id": "00003",
+    "name": "Hacker3",
+    "email": "hacker3@gmail.com",
+    "request_time": " Oct. 10, 2020  10:10:02 ",
+    "status":false,
+    "validate_time": ""
+  },
+  {
+    "_id": "00004",
+    "name": "TechTerm4",
+    "email": "techterms4@gmail.com",
+    "request_time": " Oct. 11, 2020  10:10:02 ",
+    "status":false,
+    "validate_time": ""
+  }
+  ],
+  "complaints":[{
+    "_id": "00001",
+    "complainant_id": "Complainant",
+    "complaint_email": "complainant@gmail.com",
+    "complaint_time": "Oct. 10, 2020  10:10:02 ",
+    "respondent_id": "Respondent",
+    "respondent_email": "complainant@gmail.com",
+    "status":"pending"
+  }
+  ]
+}
