@@ -37,11 +37,11 @@ export default function ProductPage() {
 							<p className="desc3">{product.description}</p>
 						<div className="subgroup6">
 						<Link to={"/request/" + product._id}><img className="subgroup6" src="https://shens12.github.io/Gourmet-4-Mac/Delivery2.png" /></Link>
-						<div className="subgroup7">
+						<div className="subgroup8">
 							<Link to={"/request/" + product._id}><p className="clickable2"> On campus <img width="20" src="https://shens12.github.io/Gourmet-4-Mac/triangle.png" /></p></Link>
 				
 							<p className="desc3"> Start a service request on Bring-It-To-Me system</p>
-							<p className="desc"> Sit back and wait for your fellow McMaster students deliver to your door <br />
+							<p className="desc"> Sit back and wait for your fellow McMaster students deliver to your door </p> 
 						</div>
 					</div>
 					<div className="subgroup6">
