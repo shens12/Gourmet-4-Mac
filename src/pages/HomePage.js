@@ -19,7 +19,7 @@ export default function Homepage() {
 		</div>
 		<div className="group2">
 			<div className="subgroup4">
-				<Link to="/mobile">
+				<Link to="/delivery">
 					<img className="img" src="https://shens12.github.io/Gourmet-4-Mac/Delivery.png" alt="Delivery" /> 
 					<p className="clickable"> Delivery for others <img width="20" src="https://shens12.github.io/Gourmet-4-Mac/triangle1.png" /></p>
 					</Link>
