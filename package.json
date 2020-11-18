@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD:package.json
+=======
+  "homepage": "https://shens12.github.io/Gourmet-4-Mac/",
+>>>>>>> ded9c4c16c1c61e40b6663f3abfa6eb0b7cea3b5:community_front/package.json
   "name": "community_front",
   "version": "0.1.0",
   "private": true,
