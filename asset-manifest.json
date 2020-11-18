@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Gourmet-4-Mac/static/css/main.e6acdda0.chunk.css",
-    "main.js": "/Gourmet-4-Mac/static/js/main.069921b9.chunk.js",
-    "main.js.map": "/Gourmet-4-Mac/static/js/main.069921b9.chunk.js.map",
+    "main.js": "/Gourmet-4-Mac/static/js/main.bbb685f3.chunk.js",
+    "main.js.map": "/Gourmet-4-Mac/static/js/main.bbb685f3.chunk.js.map",
     "runtime-main.js": "/Gourmet-4-Mac/static/js/runtime-main.f5d2a115.js",
     "runtime-main.js.map": "/Gourmet-4-Mac/static/js/runtime-main.f5d2a115.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Gourmet-4-Mac/static/css/2.1a02f21c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.4f45ce7b.chunk.js",
     "static/css/main.e6acdda0.chunk.css",
-    "static/js/main.069921b9.chunk.js"
+    "static/js/main.bbb685f3.chunk.js"
   ]
 }
