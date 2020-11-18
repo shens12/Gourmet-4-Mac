@@ -1,5 +1,5 @@
 import React, { createContext, useState, useContext } from "react";
-import marketData from "./data.json";
+import marketData from "./components/data.json";
 
 const DataContext = createContext();
 export const useData = () => useContext(DataContext);
