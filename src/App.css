@@ -268,6 +268,13 @@ ul
 	color:rgba(122,2,60,1);
 	font-size:15px;
 }
+
+.desc4{
+	text-align:left;
+	color: grey;
+	font-size:12px;
+}
+
 .subgroup6{
 	width:50%;
 	float:left;
