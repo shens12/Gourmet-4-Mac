@@ -12,13 +12,13 @@ export default function Header() {
       <div>
         <img
           className="logo"
-          src="../logo_small.png" 
+          src="./logo_small.png" 
           alt="logo"
           width="200"
         ></img>
 		<a href="#"><img
           className="logo"
-          src="../home.png" 
+          src="./home.png" 
           onClick={() => navigate(`/`)}
           alt="logo"
           width="30"

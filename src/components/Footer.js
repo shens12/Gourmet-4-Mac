@@ -5,7 +5,7 @@ export default function SideBar() {
     <footer className="footer">
       <img
           className="logo"
-          src="../logo_small.png" 
+          src="./logo_small.png" 
           alt="logo"
 			width= "220"
         ></img>

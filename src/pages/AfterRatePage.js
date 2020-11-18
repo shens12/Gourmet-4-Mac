@@ -9,7 +9,7 @@ export default function AfterRatePage() {
 		<div className="group1">
 			<p className="title1">Thank you so much for your rating! </p>
 			<p className="title2">We will process your comment shortly before it is posted.</p>
-			<img className="img4" src="../thanks.gif" /> 
+			<img className="img4" src="./thanks.gif" /> 
 			<br />
 			<button className="button"
                    onClick={() => navigate(`/`)}>Back to main page</button>
