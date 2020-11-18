@@ -41,6 +41,7 @@ export default function ProductPage() {
 							<Link to={"/request/" + product._id}><p className="clickable2"> On campus <img width="20" src="https://shens12.github.io/Gourmet-4-Mac/triangle.png" /></p></Link>
 				
 							<p className="desc3"> Start a service request on Bring-It-To-Me system</p>
+							<p className="desc"> Sit back and wait for your fellow McMaster students deliver to your door <br />
 						</div>
 					</div>
 					<div className="subgroup6">

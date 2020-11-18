@@ -24,7 +24,7 @@ export default function Homepage() {
 					<p className="clickable"> Delivery for others <img width="20" src="https://shens12.github.io/Gourmet-4-Mac/triangle1.png" /></p>
 					</Link>
 				<p className="desc"> Take ordered dished to campus <br />
-				at your convinence and <br />
+				on your way back and <br />
 				earn some pocket money </p>
 			</div>
 			<div className="subgroup4">
