@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Gourmet-4-Mac/static/css/main.e6acdda0.chunk.css",
-    "main.js": "/Gourmet-4-Mac/static/js/main.bbb685f3.chunk.js",
-    "main.js.map": "/Gourmet-4-Mac/static/js/main.bbb685f3.chunk.js.map",
+    "main.css": "/Gourmet-4-Mac/static/css/main.83171d3b.chunk.css",
+    "main.js": "/Gourmet-4-Mac/static/js/main.7a405584.chunk.js",
+    "main.js.map": "/Gourmet-4-Mac/static/js/main.7a405584.chunk.js.map",
     "runtime-main.js": "/Gourmet-4-Mac/static/js/runtime-main.f5d2a115.js",
     "runtime-main.js.map": "/Gourmet-4-Mac/static/js/runtime-main.f5d2a115.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Gourmet-4-Mac/static/css/2.1a02f21c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.8eb7f860.chunk.js.map": "/Gourmet-4-Mac/static/js/3.8eb7f860.chunk.js.map",
     "index.html": "/Gourmet-4-Mac/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Gourmet-4-Mac/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.e6acdda0.chunk.css.map": "/Gourmet-4-Mac/static/css/main.e6acdda0.chunk.css.map",
+    "static/css/main.83171d3b.chunk.css.map": "/Gourmet-4-Mac/static/css/main.83171d3b.chunk.css.map",
     "static/js/2.4f45ce7b.chunk.js.LICENSE.txt": "/Gourmet-4-Mac/static/js/2.4f45ce7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5d2a115.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.4f45ce7b.chunk.js",
-    "static/css/main.e6acdda0.chunk.css",
-    "static/js/main.bbb685f3.chunk.js"
+    "static/css/main.83171d3b.chunk.css",
+    "static/js/main.7a405584.chunk.js"
   ]
 }
